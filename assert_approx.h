@@ -11,7 +11,7 @@
 #pragma once
 
 #ifndef DIGITS
-#define DIGITS 15
+#define DIGITS 16
 #endif
 
 #define assert_approx(actual,expected) \
